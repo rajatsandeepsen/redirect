@@ -33,6 +33,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 100%;
+    heigth: calc(100vh - 160px);
     align-items: center;
     justify-content: flex-start;
 }
