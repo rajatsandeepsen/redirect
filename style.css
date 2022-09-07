@@ -38,14 +38,14 @@ a {
 
 .git :hover,
 .git :focus {
-  background: #2b3137;
-  background: linear-gradient(45deg, #2b3137 0%, #24292e 100%);
+  background: #22b455;
+  background: linear-gradient(45deg, #22b455 0%, #6cc644 100%);
 }
 
 .lnkin :hover,
 .lnkin :focus {
-  background: #7289da;
-  background: linear-gradient(45deg, #7289da 0%, #5473d8 100%);
+  background: #41aabf;
+  background: linear-gradient(45deg, #41aabf 19%, #0075af 85%);
 }
 
 .bi {

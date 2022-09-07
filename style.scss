@@ -41,17 +41,21 @@ a {
         }
         .git :hover,
         .git :focus {
-            background: #2b3137;
-            background: -moz-linear-gradient(45deg, #2b3137 0%, #24292e 100%);
-            background: -webkit-linear-gradient(45deg, #2b3137 0%, #24292e 100%);
-            background: linear-gradient(45deg, #2b3137 0%, #24292e 100%);
+            // background: #2b3137;
+            // background: -moz-linear-gradient(45deg, #2b3137 0%, #1b1e21 100%);
+            // background: -webkit-linear-gradient(45deg, #2b3137 0%, #1b1e21 100%);
+            // background: linear-gradient(45deg, #2b3137 0%, #1b1e21 100%);
+            background: #22b455;
+            background: -moz-linear-gradient(45deg, #22b455 0%, #6cc644 100%);
+            background: -webkit-linear-gradient(45deg, #22b455 0%, #6cc644 100%);
+            background: linear-gradient(45deg, #22b455 0%, #6cc644 100%);
         }
         .lnkin :hover,
         .lnkin :focus {
-            background: #7289da;
-            background: -moz-linear-gradient(45deg, #7289da 0%, #5473d8 100%);
-            background: -webkit-linear-gradient(45deg, #7289da 0%, #5473d8 100%);
-            background: linear-gradient(45deg, #7289da 0%, #5473d8 100%);
+            background: #41aabf;
+                background: -moz-linear-gradient(45deg, #41aabf 19%, #0075af 85%);
+                background: -webkit-linear-gradient(45deg, #41aabf 19%, #0075af 85%);
+                background: linear-gradient(45deg, #41aabf 19%, #0075af 85%);
         }
 
 .bi {
